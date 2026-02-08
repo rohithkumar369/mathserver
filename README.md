@@ -137,10 +137,11 @@ urlpatterns = [
 ```
 
 ## SERVER SIDE PROCESSING:
-![alt text](<webpro5/mathapp/templates/server side.png>)
+<img width="1265" height="416" alt="image" src="https://github.com/user-attachments/assets/ef9023fd-cd1f-4c74-9aa8-4c41edb81118" />
+
 
 ## HOMEPAGE:
-![alt text](webpro5/mathapp/templates/power.png)
+<img width="1282" height="465" alt="image" src="https://github.com/user-attachments/assets/d5afc656-631d-4afd-854d-d2f0c6701cab" />
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
